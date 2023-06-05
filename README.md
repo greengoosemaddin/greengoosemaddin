@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin @greengoosemaddin
-- 👀 I’m interested in communication / network protocols, arts and painting, riding and feeling
+- 👀 I’m interested in communication / network protocols, arts and painting
 - 🌱 I’m currently learning the art of software design and javascript 
 - 💞️ I’m looking to collaborate on ... nothing found yet
 - 📫 How to reach me: Threema ID @WRB82RTZ
